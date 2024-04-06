@@ -1,5 +1,5 @@
 def suma(a,b):
   return a+b
-def division(c,d):
+def multiplicacion(c,d):
   return c*d
   
